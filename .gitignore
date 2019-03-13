@@ -99,5 +99,5 @@ ENV/
 
 # local settings
 local.py
-PersonalFinanceManager
-Hello
+PersonalFinanceManager/
+Hello/
