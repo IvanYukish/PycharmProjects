@@ -3,7 +3,7 @@ def lst_fib():
     lst = [i for i in range(1, a + 1)]
     print(lst)
 
-    def fib(a):
+    def fib(n):
         if n == 1 or n == 2:
             return 1
         return fib(n - 1) + fib(n - 2)
